@@ -39,4 +39,4 @@ Enfocado en la construcción de sistemas, optimización de rendimiento y arquite
 ---
 
 ### 📫 Connect with me:
-[LinkedIn]([https://linkedin.com/in/tu-usuario](https://www.linkedin.com/in/ricard0vitalnegrete/)) | [Portfolio](https://tu-dominio.com)
+[LinkedIn](https://linkedin.com/in/ricard0vitalnegrete/) | [Portfolio](https://tu-dominio.com)
