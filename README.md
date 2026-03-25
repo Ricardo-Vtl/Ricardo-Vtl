@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Ricardo Vital 👋 
 
-<!--
-**Ricardo-Vtl/Ricardo-Vtl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚡ Systems Engineering Student | Software Developer
 
-Here are some ideas to get you started:
+Enfocado en la construcción de sistemas, optimización de rendimiento y arquitectura de software limpia. Actualmente cursando Ingeniería en Sistemas Computacionales y desarrollando soluciones full-stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Technical Stack
+
+| Area | Technologies |
+| :--- | :--- |
+| **Frontend** | React, Next.js, Tailwind CSS, TypeScript, Framer Motion |
+| **Backend & Data** | Python, MySQL, Architecture Patterns |
+| **Tools & Ops** | Git/GitHub, Docker, Linux, CI/CD Bascis |
+
+---
+
+### 🛠️ Featured Projects
+
+* **[Beauty Salon Management System](https://github.com/...)**
+    * **Concepto:** Plataforma personalizada para la gestión de citas, servicios y catálogo visual para un salón de belleza.
+    * **Stack:** React + Tailwind CSS + [Tu Backend/DB].
+    * **Key Feature:** Sistema de agendado dinámico y diseño UI/UX de alta fidelidad.
+
+* **[TechService Manager](https://github.com/Ricardo-Vtl/...)** (In Progress)
+    * *Core:* Sistema de gestión para servicios técnicos de cómputo.
+    * *Stack:* Next.js + Tailwind + MySQL.
+    * *Focus:* Gestión de inventarios, tickets de soporte y persistencia de datos.
+
+* **[Monte Carlo Statistical Engine](https://github.com/...)**
+    * *Core:* Simulador estocástico para modelado de probabilidades.
+    * *Stack:* Python (NumPy, Matplotlib).
+    * *Focus:* Lógica algorítmica y procesamiento de datos estadísticos.
+
+* **[Interactive Engineering Portfolio](https://github.com/...)**
+    * *Core:* Portafolio de alto rendimiento con visualización 3D.
+    * *Stack:* TypeScript, Framer Motion, Next.js.
+---
+
+### 📊 GitHub Activity
+![Ricardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ricardo-Vtl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+---
+
+### 📫 Connect with me:
+[LinkedIn](https://linkedin.com/in/tu-usuario) | [Portfolio](https://tu-dominio.com)
