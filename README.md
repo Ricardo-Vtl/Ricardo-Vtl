@@ -28,11 +28,6 @@ Enfocado en la construcción de sistemas, optimización de rendimiento y arquite
     * *Stack:* Next.js + Tailwind + MySQL.
     * *Focus:* Gestión de inventarios, tickets de soporte y persistencia de datos.
 
-* **[Monte Carlo Statistical Engine](https://github.com/...)**
-    * *Core:* Simulador estocástico para modelado de probabilidades.
-    * *Stack:* Python (NumPy, Matplotlib).
-    * *Focus:* Lógica algorítmica y procesamiento de datos estadísticos.
-
 * **[Interactive Engineering Portfolio](https://github.com/...)**
     * *Core:* Portafolio de alto rendimiento con visualización 3D.
     * *Stack:* TypeScript, Framer Motion, Next.js.
