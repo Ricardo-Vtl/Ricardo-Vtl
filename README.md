@@ -20,7 +20,7 @@ Enfocado en la construcción de sistemas, optimización de rendimiento y arquite
 
 * **[Beauty Salon Management System](https://github.com/...)**
     * **Concepto:** Plataforma personalizada para la gestión de citas, servicios y catálogo visual para un salón de belleza.
-    * **Stack:** React + Tailwind CSS + [Tu Backend/DB].
+    * **Stack:** React + Tailwind CSS + MySQL.
     * **Key Feature:** Sistema de agendado dinámico y diseño UI/UX de alta fidelidad.
 
 * **[TechService Manager](https://github.com/Ricardo-Vtl/...)** (In Progress)
