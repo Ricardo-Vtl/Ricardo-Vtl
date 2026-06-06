@@ -5,7 +5,7 @@
 
   <p align="center">
     <a href="https://linkedin.com/in/ricard0vitalnegrete/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://aguachilito.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00df89" alt="Portfolio" /></a>
+    <a href=""><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00df89" alt="Portfolio" /></a>
   </p>
 </div>
 
