@@ -40,7 +40,7 @@
 
 ---
 
-### 🛠️ Featured Projects
+### Featured Projects
 
 <table width="100%">
   <tr>
