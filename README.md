@@ -50,7 +50,7 @@
       <sub><b>Stack:</b> Next.js, TypeScript, Tailwind CSS, Supabase (PostgreSQL), Vercel.</sub>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="#">LifeOS Dashboard</a></h4>
+      <h4><a href="#">MyOrbit</a></h4>
       <p>Personal optimization and metrics tracking system with high-fidelity charts and routine log data flows.</p>
       <sub><b>Stack:</b> Next.js, TypeScript, Tailwind CSS, Framer Motion.</sub>
     </td>
