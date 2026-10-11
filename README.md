@@ -1,83 +1,107 @@
-<div align="center">
-  <h1>Hi, I'm <text style="color:#00df89;">Ricardo Vital</text> </h1>
-  <p><strong>Systems Engineer & Full-Stack Developer</strong></p>
-  <p>Building robust, scalable architectures with a focus on Clean Code, performance optimization, and premium UI/UX.</p>
+<!--
+  ==========================================================================
+  LINKS — single source of truth (reference-style definitions live at the
+  bottom of this file, just before the closing comment). If a URL changes,
+  update the definition there once and every link follows.
 
-  <p align="center">
-    <a href="https://linkedin.com/in/ricard0vitalnegrete/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href=""><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00df89" alt="Portfolio" /></a>
-  </p>
-</div>
+  portfolio : https://ricardo-vital.vercel.app
+  pos repo  : https://github.com/Ricardo-Vtl/restaurant-pos-webapp
+  pos demo  : https://restaurant-pos-webapp.vercel.app
+  deckcraft : https://github.com/Ricardo-Vtl/DeckCraft
+  linkedin  : https://www.linkedin.com/in/ricardo-vital-dev
+  email     : vitalnegretericardo@gmail.com
 
----
-
-### Technical Stack
-
-<details open>
-<summary><b>Frontend & UI Design</b></summary>
-<br />
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=purple" />
-</p>
-</details>
-
-<details open>
-<summary><b>Backend, Data & Infrastructure</b></summary>
-<br />
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-1C1C1C?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-</details>
-
----
-
-### Featured Projects
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://aguachilito.vercel.app/">Aguachilito ¿o qué?</a></h4>
-      <p>SaaS Point of Sale (POS) and real-time order management platform built for a specialized seafood restaurant.</p>
-      <sub><b>Stack:</b> Next.js, TypeScript, Tailwind CSS, Supabase (PostgreSQL), Vercel.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="#">MyOrbit</a></h4>
-      <p>Personal optimization and metrics tracking system with high-fidelity charts and routine log data flows.</p>
-      <sub><b>Stack:</b> Next.js, TypeScript, Tailwind CSS, Framer Motion.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Ricardo-Vtl">TechService Manager</a></h4>
-      <p>Management ecosystem for computer technical services, dynamic support tickets, and inventory logging.</p>
-      <sub><b>Stack:</b> Next.js, Tailwind, MySQL.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="#">Beauty Salon System</a></h4>
-      <p>Custom software for appointment scheduling, customer service history, and visual service cataloging.</p>
-      <sub><b>Stack:</b> React, Tailwind CSS, MySQL.</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-### GitHub Analytics
+  ASSETS (Figma) — export to assets/ in this repo:
+    banner.svg     1200x300  bg #0d1117, accent #ff6b35, mono labels  [required]
+    divider.svg    1200x16   1px line #1c2128 + 24px tick #ff6b35    [optional]
+    footer-mark.svg 1200x80  footer mark                              [optional]
+  To use the optional divider, replace the "---" between sections below.
+  ==========================================================================
+-->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ricardo-Vtl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00df89&text_color=ffffff&icon_color=00df89" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-Vtl&layout=compact&theme=tokyonight&hide_border=true&title_color=00df89&text_color=ffffff" width="48%" />
+  <img src="assets/banner.svg" alt="Ricardo Vital — Full-Stack Developer" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ricardo-Vtl&theme=tokyonight&hide_border=true&ring=00df89&fire=00df89" width="100%" />
+  <a href="https://www.linkedin.com/in/ricardo-vital-dev"><img src="https://img.shields.io/badge/LinkedIn-555555?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://ricardo-vital.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ff6b35?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:vitalnegretericardo@gmail.com"><img src="https://img.shields.io/badge/Email-555555?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
+## About
+
+Self-taught full-stack developer, one year into building complete web products end to end — requirements, architecture, code, security, deploy, docs. I paused a 10-semester Computer Systems Engineering program to learn by shipping real software instead; training as a Mechatronics technician is where the hardware-and-code habit started.
+
+I work with AI agents as leverage under my direction, never as an oracle: output stays a draft until tests, review and security checks pass.
+
+**Now:** finalizing a public white-label release of the POS platform below, plus a bilingual (EN/ES) portfolio site.
+
+On-site in Irapuato, Mexico · full remote elsewhere · available immediately.
+
+---
+
+## Featured projects
+
+### [Restaurant POS WebApp][repo]
+White-label point-of-sale and management platform, built and shipped end to end: public storefront with digital menu, product configurator and cart — plus a 9-module admin panel (Dashboard, Tables, Orders, Kitchen KDS, Cashier, Menu, Logistics, Staff, Settings) with staff roles and permissions.
+
+REST APIs · row-level security · rate limiting · real-time orders and kitchen · SQL migrations · automated tests · full technical documentation. 132 commits, feature-based clean architecture.
+
+**Stack:** Next.js 16 · React 19 · TypeScript (strict) · Supabase (PostgreSQL) · Tailwind CSS v4 · Upstash Redis · Zustand · Vitest · Vercel
+
+[Repo][repo] · [Live demo][demo]
+
+### [DeckCraft][deckcraft]
+Ultra-lightweight open-source Stream Deck alternative for DIY hardware: detects Arduino-compatible boards over Serial and HID, maps physical buttons to keyboard shortcuts, app launches, macros and a virtual-microphone soundboard — with profiles and a drag-and-drop canvas.
+
+**Stack:** Tauri v2 (Rust) · React 19 · TypeScript · hidapi · MIT licensed
+
+### [Portfolio][portfolio]
+Bilingual (EN/ES) portfolio — dark technical-minimal design, motion architecture, SEO and accessibility as first-class constraints.
+
+**Stack:** Next.js 16 · Tailwind CSS v4 · GSAP + Motion · TypeScript
+
+---
+
+## How I work
+
+AI is my tool, not my replacement: I set the architecture and I verify everything.
+
+| | |
+|---|---|
+| `rv.plan` | Requirements first, architecture second, code last. If the problem isn't clear, nothing gets built. |
+| `rv.build` | Build with leverage — I orchestrate AI agents and CLI/MCP tooling from the terminal. They never receive secrets or sensitive data. |
+| `rv.verify` | AI output is a draft until tests, code review and security checks pass. Nothing ships unverified. |
+| `rv.ship` | Deploy, document the decisions, leave the system maintainable. Software that can't be maintained isn't finished. |
+
+---
+
+## Stack
+
+**Languages** — TypeScript · JavaScript · SQL · C# (basic)
+
+**Frontend** — React 19 · Next.js 16 · Tailwind CSS v4 · shadcn/ui · Framer Motion / Motion
+
+**Data** — PostgreSQL · Supabase (RLS, migrations, realtime) · MySQL (basic) · Upstash Redis
+
+**Tooling** — Git & GitHub (conventional commits) · Vercel · pnpm · Vitest · REST API integration
+
+**Also** — PC, laptop and smartphone hardware repair · Spanish (native) · English (B1)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ricardo-Vtl&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff6b35&icon_color=ff6b35&text_color=c9d1d9&hide_rank=true&cache_seconds=86400" alt="GitHub stats for Ricardo-Vtl" width="48%" />
+</p>
+
+---
+
+<p align="center">
+  <sub>Open to work — full-time or contract. <a href="mailto:vitalnegretericardo@gmail.com">vitalnegretericardo@gmail.com</a></sub>
+</p>
+
+[repo]: https://github.com/Ricardo-Vtl/restaurant-pos-webapp
+[demo]: https://restaurant-pos-webapp.vercel.app
+[deckcraft]: https://github.com/Ricardo-Vtl/DeckCraft
+[portfolio]: https://ricardo-vital.vercel.app
