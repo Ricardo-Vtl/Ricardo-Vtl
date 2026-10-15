@@ -11,11 +11,19 @@
   linkedin  : https://www.linkedin.com/in/ricardo-vital-dev
   email     : vitalnegretericardo@gmail.com
 
-  ASSETS (Figma) — export to assets/ in this repo:
-    banner.svg     1200x300  bg #0d1117, accent #ff6b35, mono labels  [required]
-    divider.svg    1200x16   1px line #1c2128 + 24px tick #ff6b35    [optional]
-    footer-mark.svg 1200x80  footer mark                              [optional]
-  To use the optional divider, replace the "---" between sections below.
+  ASSETS (all live in assets/, SVG, scale via width="100%"):
+    banner.svg       1200x300  bg #0a0a0a, accent #ff6b35, terminal mockup
+    divider.svg      1200x16   accent #ff6b35 glow line (1192x10, r5)
+    footer-mark.svg  1200x80   wordmark #ff6b35 + #8a8a8a
+  Every "---" between sections is the divider; footer-mark sits above the
+  "Open to work" line.
+
+  ANALYTICS — services + palette (bg 0a0a0a · accent ff6b35 · text c9d1d9 ·
+  muted 8a8a8a · line 30363d/1c2128). All best-effort public instances:
+    stats / top-langs : https://github-readme-stats.vercel.app/api
+    streak            : https://streak-stats.demolab.com  (was herokuapp, dead)
+    activity graph    : https://fabianocouto-activity-graph.vercel.app/graph
+                        (upstream vercel paused/billing-locked -> community mirror)
   ==========================================================================
 -->
 
@@ -39,7 +47,9 @@ I work with AI agents as leverage under my direction, never as an oracle: output
 
 On-site in Irapuato, Mexico · full remote elsewhere · available immediately.
 
----
+<p align="center">
+  <img src="assets/divider.svg" alt="" width="100%" />
+</p>
 
 ## Featured projects
 
@@ -62,7 +72,9 @@ Bilingual (EN/ES) portfolio — dark technical-minimal design, motion architectu
 
 **Stack:** Next.js 16 · Tailwind CSS v4 · GSAP + Motion · TypeScript
 
----
+<p align="center">
+  <img src="assets/divider.svg" alt="" width="100%" />
+</p>
 
 ## How I work
 
@@ -75,7 +87,9 @@ AI is my tool, not my replacement: I set the architecture and I verify everythin
 | `rv.verify` | AI output is a draft until tests, code review and security checks pass. Nothing ships unverified. |
 | `rv.ship` | Deploy, document the decisions, leave the system maintainable. Software that can't be maintained isn't finished. |
 
----
+<p align="center">
+  <img src="assets/divider.svg" alt="" width="100%" />
+</p>
 
 ## Stack
 
@@ -89,13 +103,32 @@ AI is my tool, not my replacement: I set the architecture and I verify everythin
 
 **Also** — PC, laptop and smartphone hardware repair · Spanish (native) · English (B1)
 
----
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ricardo-Vtl&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff6b35&icon_color=ff6b35&text_color=c9d1d9&hide_rank=true&cache_seconds=86400" alt="GitHub stats for Ricardo-Vtl" width="48%" />
+  <img src="assets/divider.svg" alt="" width="100%" />
 </p>
 
----
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ricardo-Vtl&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=ff6b35&icon_color=ff6b35&text_color=c9d1d9&hide_rank=true&cache_seconds=86400" alt="GitHub stats for Ricardo-Vtl" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-Vtl&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=ff6b35&text_color=c9d1d9&langs_count=6" alt="Top languages for Ricardo-Vtl" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Ricardo-Vtl&hide_border=true&background=0a0a0a&border=30363d&stroke=30363d&ring=ff6b35&fire=ff6b35&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=ff6b35&sideLabels=c9d1d9&dates=8a8a8a" alt="GitHub streak for Ricardo-Vtl" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=Ricardo-Vtl&bg_color=0a0a0a&color=c9d1d9&title_color=ff6b35&line=ff6b35&point=c9d1d9&area=true&area_color=ff6b35&hide_border=true&radius=8&days=31" alt="Contribution activity for Ricardo-Vtl" width="100%" />
+</p>
+
+<p align="center">
+  <img src="assets/divider.svg" alt="" width="100%" />
+</p>
+
+<p align="center">
+  <img src="assets/footer-mark.svg" alt="Ricardo Vital" width="100%" />
+</p>
 
 <p align="center">
   <sub>Open to work — full-time or contract. <a href="mailto:vitalnegretericardo@gmail.com">vitalnegretericardo@gmail.com</a></sub>
