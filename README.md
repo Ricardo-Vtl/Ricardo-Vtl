@@ -4,9 +4,9 @@
   bottom of this file, just before the closing comment). If a URL changes,
   update the definition there once and every link follows.
 
-  portfolio : https://ricardo-vital.vercel.app
-  pos repo  : https://github.com/Ricardo-Vtl/restaurant-pos-webapp
-  pos demo  : https://restaurant-pos-webapp.vercel.app
+  portfolio : https://rvital.dev
+  rms repo  : https://github.com/Ricardo-Vtl/Restaurant-Management-System-RMS-Demo
+  rms demo  : https://rms.rvital.dev
   deckcraft : https://github.com/Ricardo-Vtl/DeckCraft
   linkedin  : https://www.linkedin.com/in/ricardo-vital-dev
   email     : vitalnegretericardo@gmail.com
@@ -33,17 +33,17 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ricardo-vital-dev"><img src="https://img.shields.io/badge/LinkedIn-555555?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://ricardo-vital.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ff6b35?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://rvital.dev"><img src="https://img.shields.io/badge/Portfolio-ff6b35?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:vitalnegretericardo@gmail.com"><img src="https://img.shields.io/badge/Email-555555?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ## About
 
-Self-taught full-stack developer, one year into building complete web products end to end — requirements, architecture, code, security, deploy, docs. I paused a 10-semester Computer Systems Engineering program to learn by shipping real software instead; training as a Mechatronics technician is where the hardware-and-code habit started.
+Self-taught full-stack developer, building complete web products end to end since August 2024 — requirements, architecture, code, security, deploy, docs. I paused a 10-semester Computer Systems Engineering program (TecNM) to learn by shipping real software instead; training as a Mechatronics technician is where the hardware-and-code habit started.
 
-I work with AI agents as leverage under my direction, never as an oracle: output stays a draft until tests, review and security checks pass.
+I care more about solid engineering underneath than about what merely looks good — I adopt new tools only when they bring real gains in performance, maintainability and developer experience.
 
-**Now:** finalizing a public white-label release of the POS platform below, plus a bilingual (EN/ES) portfolio site.
+**Now:** RMS is live (demo below) and still evolving, alongside my bilingual (EN/ES) portfolio site.
 
 On-site in Irapuato, Mexico · full remote elsewhere · available immediately.
 
@@ -53,12 +53,12 @@ On-site in Irapuato, Mexico · full remote elsewhere · available immediately.
 
 ## Featured projects
 
-### [Restaurant POS WebApp][repo]
-White-label point-of-sale and management platform, built and shipped end to end: public storefront with digital menu, product configurator and cart — plus a 9-module admin panel (Dashboard, Tables, Orders, Kitchen KDS, Cashier, Menu, Logistics, Staff, Settings) with staff roles and permissions.
+### [Restaurant Management System (RMS)][repo]
+White-label restaurant management platform, built and shipped end to end: public landing with a live digital menu and online ordering — plus a 9-module panel (Dashboard, Tables, Orders, Kitchen KDS, Cashier, Menu, Inventory, Staff, Settings). API-only writes with atomic PostgreSQL RPCs, row-level security, Zod validation at every boundary, real-time sync and rate limiting.
 
-REST APIs · row-level security · rate limiting · real-time orders and kitchen · SQL migrations · automated tests · full technical documentation. 132 commits, feature-based clean architecture.
+Client read-only over RLS + Realtime · service-role Route Handlers · SQL migrations · Vitest suite · full technical documentation. 36 commits, feature-based clean architecture.
 
-**Stack:** Next.js 16 · React 19 · TypeScript (strict) · Supabase (PostgreSQL) · Tailwind CSS v4 · Upstash Redis · Zustand · Vitest · Vercel
+**Stack:** Next.js 16 · React 19 · TypeScript (strict) · Supabase (PostgreSQL, Auth, Realtime) · TanStack Query · Tailwind CSS v4 · shadcn/ui · Zustand · Zod · Upstash Redis · Vitest · Vercel
 
 [Repo][repo] · [Live demo][demo]
 
@@ -68,9 +68,9 @@ Ultra-lightweight open-source Stream Deck alternative for DIY hardware: detects 
 **Stack:** Tauri v2 (Rust) · React 19 · TypeScript · hidapi · MIT licensed
 
 ### [Portfolio][portfolio]
-Bilingual (EN/ES) portfolio — dark technical-minimal design, motion architecture, SEO and accessibility as first-class constraints.
+Bilingual (EN/ES) portfolio — dark technical-minimal design with a cinematic depth system (Lenis smooth scroll + GSAP + a WebGL field), custom motion architecture, and SEO/structured data and accessibility as first-class constraints.
 
-**Stack:** Next.js 16 · Tailwind CSS v4 · GSAP + Motion · TypeScript
+**Stack:** Next.js 16 · React 19 · TypeScript · Tailwind CSS v4 · GSAP + Motion · Lenis · OGL (WebGL)
 
 <p align="center">
   <img src="assets/divider.svg" alt="" width="100%" />
@@ -78,13 +78,13 @@ Bilingual (EN/ES) portfolio — dark technical-minimal design, motion architectu
 
 ## How I work
 
-AI is my tool, not my replacement: I set the architecture and I verify everything.
+Good software comes from deliberate decisions — architecture first, then code, verified at every step.
 
 | | |
 |---|---|
 | `rv.plan` | Requirements first, architecture second, code last. If the problem isn't clear, nothing gets built. |
-| `rv.build` | Build with leverage — I orchestrate AI agents and CLI/MCP tooling from the terminal. They never receive secrets or sensitive data. |
-| `rv.verify` | AI output is a draft until tests, code review and security checks pass. Nothing ships unverified. |
+| `rv.build` | I turn the plan into working code step by step, keeping every decision explicit and reversible. |
+| `rv.verify` | Output is a draft until tests, review and security checks pass. Nothing ships unverified. |
 | `rv.ship` | Deploy, document the decisions, leave the system maintainable. Software that can't be maintained isn't finished. |
 
 <p align="center">
@@ -93,9 +93,9 @@ AI is my tool, not my replacement: I set the architecture and I verify everythin
 
 ## Stack
 
-**Languages** — TypeScript · JavaScript · SQL · C# (basic)
+**Languages** — TypeScript · JavaScript · SQL · Node.js · Python (basic) · C# (basic)
 
-**Frontend** — React 19 · Next.js 16 · Tailwind CSS v4 · shadcn/ui · Framer Motion / Motion
+**Frontend** — React 19 · Next.js 16 · Tailwind CSS v4 · shadcn/ui · TanStack Query · Zod · Framer Motion / Motion
 
 **Data** — PostgreSQL · Supabase (RLS, migrations, realtime) · MySQL (basic) · Upstash Redis
 
@@ -134,7 +134,7 @@ AI is my tool, not my replacement: I set the architecture and I verify everythin
   <sub>Open to work — full-time or contract. <a href="mailto:vitalnegretericardo@gmail.com">vitalnegretericardo@gmail.com</a></sub>
 </p>
 
-[repo]: https://github.com/Ricardo-Vtl/restaurant-pos-webapp
-[demo]: https://restaurant-pos-webapp.vercel.app
+[repo]: https://github.com/Ricardo-Vtl/Restaurant-Management-System-RMS-Demo
+[demo]: https://rms.rvital.dev
 [deckcraft]: https://github.com/Ricardo-Vtl/DeckCraft
-[portfolio]: https://ricardo-vital.vercel.app
+[portfolio]: https://rvital.dev
